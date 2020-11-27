@@ -1,0 +1,57 @@
+// GENERAL
+// -------
+
+@cuar-color-text-darker: fade(contrast(@cuar-color-neutral, darken(@cuar-color-neutral, 80%), lighten(@cuar-color-neutral, 60%)), 80%);
+@cuar-color-text-dark: fade(contrast(@cuar-color-neutral, darken(@cuar-color-neutral, 75%), lighten(@cuar-color-neutral, 65%)), 85%);
+@cuar-color-text: fade(contrast(@cuar-color-neutral, darken(@cuar-color-neutral, 70%), lighten(@cuar-color-neutral, 70%)), 90%);
+@cuar-color-text-light: fade(contrast(@cuar-color-neutral, darken(@cuar-color-neutral, 65%), lighten(@cuar-color-neutral, 75%)), 95%);
+@cuar-color-text-lighter: fade(contrast(@cuar-color-neutral, darken(@cuar-color-neutral, 60%), lighten(@cuar-color-neutral, 80%)), 100%);
+
+@panel-heading-bg: @cuar-color-neutral-darker-plus;
+
+// DROPDOWNS
+// ---------
+
+@dropdown-bg: @cuar-color-primary;
+@dropdown-link-hover-color: @cuar-color-primary;
+@dropdown-link-hover-bg: rgba(37, 37, 37, 0.77);
+
+// EXTRA STYLES
+// ------------
+@{wrapperBase} {
+
+  // Trays
+  // --
+  .tray-left,
+  .tray-right {
+    background: fade(mix(@panel-heading-bg, @panel-bg, 50%), 40%);
+  }
+
+  // Dropdowns
+  // --
+  .dropdown-header,
+  .select2-container--default .select2-results__option--highlighted[aria-selected]{
+    background: @dropdown-link-hover-bg;
+    color: @dropdown-link-hover-color;
+  }
+
+  .select2-dropdown {
+    background-color: @dropdown-bg;
+    color: @dropdown-link-color;
+  }
+
+  // Main content
+  // --
+  .cuar-single-entry {
+    background: darken(@main-bg, 4%);
+    border-top: 4px solid @cuar-color-primary;
+  }
+
+  .note-editor .modal.in {
+    background: fade(@cuar-color-neutral-70, 90%);
+  }
+
+  .alert.alert-warning {
+    color:  @cuar-color-contrast-text;
+  }
+}

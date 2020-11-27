@@ -1,0 +1,24 @@
+// GENERAL
+// -------
+
+@navbar-default-bg: @cuar-color-primary;
+@navbar-default-link-color: white;
+@font-family-base: @font-family-monospace;
+
+@panel-heading-bg: @cuar-color-neutral-darker-plus;
+
+// EXTRA STYLES
+// ------------
+@{wrapperBase} {
+  .navbar-default .navbar-nav>li>a {
+    font-family: @font-family-sans-serif;
+  }
+  .cuar-menu-container {
+    .navbar .navbar-nav {
+      > li.current-page-parent > a,
+      > li.current-menu-item > a {
+        background: lighten(@component-active-bg, 5%);
+      }
+    }
+  }
+}

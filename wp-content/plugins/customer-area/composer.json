@@ -1,0 +1,55 @@
+{
+  "name": "marvinlabs/customer-area",
+  "type": "wordpress-plugin",
+  "description": "WP Customer Area is a modular all-in-one solution to manage private content with WordPress.",
+  "version": "7.9.2",
+  "homepage": "http://wp-customerarea.com",
+  "license": "GPL-3.0",
+  "keywords": [
+    "wordpress",
+    "customer",
+    "area",
+    "private",
+    "dashboard"
+  ],
+  "authors": [
+    {
+      "name": "Marvinlabs",
+      "email": "contact@marvinlabs.com",
+      "homepage": "http://marvinlabs.com/"
+    },
+    {
+      "name": "Vincent Mimoun-Prat",
+      "homepage": "http://vincentprat.info/",
+      "role": "Developer"
+    },
+    {
+      "name": "Thomas Lartaud",
+      "homepage": "http://thomaslartaud.com/",
+      "role": "Designer"
+    }
+  ],
+  "support": {
+    "source": "https://github.com/marvinlabs/customer-area",
+    "issues": "https://github.com/marvinlabs/customer-area/issues",
+    "forum": "http://wp-customerarea.com/support/",
+    "docs": "http://wp-customerarea.com/documentation/"
+  },
+  "extra": {
+    "textDomain": "cuar",
+    "slug": "wpca",
+    "folder": "customer-area"
+  },
+  "require": {
+    "php": ">=7.0",
+    "spipu/html2pdf": "^5.2",
+    "michelf/php-markdown": "^1.9.0"
+  },
+  "config": {
+    "preferred-install": "dist",
+    "vendor-dir": "libs/php/vendor"
+  },
+  "autoload": {
+    "psr-0": { "Michelf": "" }
+  }
+}

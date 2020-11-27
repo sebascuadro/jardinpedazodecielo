@@ -1,0 +1,704 @@
+@font-face {
+    font-family: "Flaticon";
+    src: url("flaticon.eot");
+    src: url("flaticon.eot#iefix") format("embedded-opentype"),
+    url("flaticon.woff") format("woff"),
+    url("flaticon.ttf") format("truetype"),
+    url("flaticon.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.cuar-css-wrapper .cuar-icon [class^="flaticon-"]:before,
+.cuar-css-wrapper .cuar-icon [class*=" flaticon-"]:before,
+.cuar-css-wrapper .cuar-icon [class^="flaticon-"]:after,
+.cuar-css-wrapper .cuar-icon [class*=" flaticon-"]:after {
+    font-family: Flaticon;
+    font-style: normal;
+    text-decoration: none;
+    border: none;
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-3dm:before {
+    content: "\e000";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-3ds:before {
+    content: "\e001";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-3g2:before {
+    content: "\e002";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-3gp:before {
+    content: "\e003";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-7z1:before {
+    content: "\e004";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-aac:before {
+    content: "\e005";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-aif:before {
+    content: "\e006";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-ai:before {
+    content: "\e007";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-apk:before {
+    content: "\e008";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-app:before {
+    content: "\e009";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-asf:before {
+    content: "\e00a";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-asp:before {
+    content: "\e00b";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-aspx:before {
+    content: "\e00c";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-asx:before {
+    content: "\e00d";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-avi:before {
+    content: "\e00e";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-bak:before {
+    content: "\e00f";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-bat:before {
+    content: "\e010";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-bin:before {
+    content: "\e011";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-bmp:before {
+    content: "\e012";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-cab:before {
+    content: "\e013";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-cad:before {
+    content: "\e014";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-cdr:before {
+    content: "\e015";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-cer:before {
+    content: "\e016";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-cfg:before {
+    content: "\e017";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-cfm:before {
+    content: "\e018";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-cgi:before {
+    content: "\e019";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-class:before {
+    content: "\e01a";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-com:before {
+    content: "\e01b";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-cpl:before {
+    content: "\e01c";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-cpp:before {
+    content: "\e01d";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-crx:before {
+    content: "\e01e";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-csr:before {
+    content: "\e01f";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-css:before {
+    content: "\e020";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-csv:before {
+    content: "\e021";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-cue:before {
+    content: "\e022";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-cur:before {
+    content: "\e023";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-dat:before {
+    content: "\e024";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-db2:before {
+    content: "\e025";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-dbf:before {
+    content: "\e026";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-dds:before {
+    content: "\e027";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-dem:before {
+    content: "\e028";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-dll:before {
+    content: "\e029";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-dmg:before {
+    content: "\e02a";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-dmp:before {
+    content: "\e02b";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-doc:before {
+    content: "\e02c";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-docx:before {
+    content: "\e02d";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-drv:before {
+    content: "\e02e";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-dtd:before {
+    content: "\e02f";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-dwg:before {
+    content: "\e030";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-dxf:before {
+    content: "\e031";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-elf:before {
+    content: "\e032";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-eps:before {
+    content: "\e033";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-exe:before {
+    content: "\e035";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-fla:before {
+    content: "\e036";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-flash:before {
+    content: "\e037";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-flv:before {
+    content: "\e038";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-fnt:before {
+    content: "\e039";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-fon:before {
+    content: "\e03a";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-gam:before {
+    content: "\e03b";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-gbr:before {
+    content: "\e03c";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-ged:before {
+    content: "\e03d";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-gif:before {
+    content: "\e03e";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-gpx:before {
+    content: "\e03f";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-gzip:before {
+    content: "\e040";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-gz:before {
+    content: "\e041";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-hqz:before {
+    content: "\e042";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-html:before {
+    content: "\e043";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-ibooks:before {
+    content: "\e044";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-icns:before {
+    content: "\e045";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-ico:before {
+    content: "\e046";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-ics:before {
+    content: "\e047";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-iff:before {
+    content: "\e048";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-indd:before {
+    content: "\e049";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-iso:before {
+    content: "\e04a";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-jar:before {
+    content: "\e04c";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-jpg:before {
+    content: "\e04d";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-js2:before {
+    content: "\e04e";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-jsp:before {
+    content: "\e04f";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-key:before {
+    content: "\e050";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-kml:before {
+    content: "\e051";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-kmz:before {
+    content: "\e052";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-lnk:before {
+    content: "\e053";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-log:before {
+    content: "\e054";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-lua:before {
+    content: "\e055";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-m3u:before {
+    content: "\e056";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-m4a:before {
+    content: "\e057";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-m4v:before {
+    content: "\e058";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-macho:before {
+    content: "\e059";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-max:before {
+    content: "\e05a";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-mdb:before {
+    content: "\e05b";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-mdf:before {
+    content: "\e05c";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-mid:before {
+    content: "\e05d";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-mim:before {
+    content: "\e05e";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-mov:before {
+    content: "\e05f";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-mp3:before {
+    content: "\e060";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-mp4:before {
+    content: "\e061";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-mpa:before {
+    content: "\e062";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-mpg:before {
+    content: "\e063";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-msg:before {
+    content: "\e064";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-msi:before {
+    content: "\e065";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-nes:before {
+    content: "\e066";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-object:before {
+    content: "\e067";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-odb:before {
+    content: "\e068";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-odc:before {
+    content: "\e069";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-odf:before {
+    content: "\e06a";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-odg:before {
+    content: "\e06b";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-odi:before {
+    content: "\e06c";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-odp:before {
+    content: "\e06d";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-ods:before {
+    content: "\e06e";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-odt:before {
+    content: "\e070";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-odx:before {
+    content: "\e071";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-ogg:before {
+    content: "\e072";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-otf:before {
+    content: "\e073";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-pages:before {
+    content: "\e075";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-pct:before {
+    content: "\e076";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-pdb:before {
+    content: "\e077";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-pdf:before {
+    content: "\e078";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-pif:before {
+    content: "\e079";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-pkg:before {
+    content: "\e07a";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-pl2:before {
+    content: "\e07b";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-png:before {
+    content: "\e07c";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-pps:before {
+    content: "\e07d";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-ppt:before {
+    content: "\e07e";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-pptx:before {
+    content: "\e07f";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-psd:before {
+    content: "\e080";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-ps:before {
+    content: "\e081";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-pub:before {
+    content: "\e082";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-python:before {
+    content: "\e083";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-rar:before {
+    content: "\e084";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-ra:before {
+    content: "\e085";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-raw:before {
+    content: "\e086";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-rm:before {
+    content: "\e087";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-rom:before {
+    content: "\e088";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-rpm:before {
+    content: "\e089";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-rss:before {
+    content: "\e08a";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-rtf:before {
+    content: "\e08b";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-sav:before {
+    content: "\e08c";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-sdf:before {
+    content: "\e08d";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-sitx:before {
+    content: "\e08e";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-sql:before {
+    content: "\e08f";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-srt:before {
+    content: "\e091";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-svg:before {
+    content: "\e092";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-swf:before {
+    content: "\e093";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-sys:before {
+    content: "\e094";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-tar:before {
+    content: "\e095";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-tex:before {
+    content: "\e096";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-tga:before {
+    content: "\e097";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-thm:before {
+    content: "\e098";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-tiff:before {
+    content: "\e099";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-tmp:before {
+    content: "\e09a";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-torrent:before {
+    content: "\e09b";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-ttf:before {
+    content: "\e09c";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-txt:before {
+    content: "\e09d";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-uue:before {
+    content: "\e09e";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-vb:before {
+    content: "\e09f";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-vcd:before {
+    content: "\e0a0";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-vcf:before {
+    content: "\e0a1";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-vob:before {
+    content: "\e0a2";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-wav:before {
+    content: "\e0a3";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-wma:before {
+    content: "\e0a4";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-wmv:before {
+    content: "\e0a5";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-wpd:before {
+    content: "\e0a6";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-wps:before {
+    content: "\e0a7";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-wsf:before {
+    content: "\e0a8";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-xhtml:before {
+    content: "\e0a9";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-xlr:before {
+    content: "\e0aa";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-xls:before {
+    content: "\e0ab";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-xlsx:before {
+    content: "\e0ac";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-xml:before {
+    content: "\e0ad";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-yuv:before {
+    content: "\e0ae";
+}
+
+.cuar-css-wrapper .cuar-icon .flaticon-zip:before {
+    content: "\e0af";
+}

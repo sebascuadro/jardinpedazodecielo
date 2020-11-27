@@ -1,0 +1,42 @@
+// GENERAL
+// -------
+
+@navbar-default-bg: @cuar-color-secondary;
+@navbar-default-link-color: white;
+
+// STYLES
+// ------
+
+@{wrapperBase} {
+  &,
+  &.cuar-content-container {
+    border-color: desaturate(@cuar-color-secondary-darker, 60%);
+  }
+  .tray-right,
+  .tray-left {
+    background: desaturate(@cuar-color-secondary-dark, 60%);
+  }
+  .cuar-menu-container {
+    .navbar .navbar-nav {
+      > li.current-page-parent > a,
+      > li.current-menu-item > a {
+        background: lighten(@component-active-bg, 5%);
+      }
+    }
+  }
+  .cuar-widget-title.panel-heading {
+    background: desaturate(@cuar-color-secondary-darker, 60%);
+    color: white;
+    border-color: @navbar-default-bg;
+  }
+  & > div:not(.cuar-widget-title),
+  .cuar-widget-title + div:not(.cuar-tree),
+  .cuar-widget-title + ol,
+  .cuar-widget-title + ul {
+    border-color: @navbar-default-bg;
+  }
+}
+
+// EXTRA EXTENDS
+// -------------
+.cuar-menu-container + .cuar-toolbar:extend(.progress-bar-primary all, .progress-bar-striped all){};

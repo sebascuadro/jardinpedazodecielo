@@ -1,0 +1,105 @@
+# (c) Vincent Mimoun-Prat, MarvinLabs {2015}
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Customer Area - Enhanced Files\n"
+"Report-Msgid-Bugs-To: http://github.com/marvinlabs/customer-area-build-"
+"environment/issues\n"
+"POT-Creation-Date: 2015-09-07 07:35:59+00:00\n"
+"PO-Revision-Date: 2018-04-26 16:41+0200\n"
+"Last-Translator: Thomas Lartaud <contact@thomaslartaud.com>\n"
+"Language-Team: http://marvinlabs.com/\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: src/php/enhanced-files-addon.class.php:23
+msgid "Enhanced Files"
+msgstr "Amélioration des fichiers"
+
+#: src/php/enhanced-files-addon.class.php:270
+#: src/php/enhanced-files-addon.class.php:274
+msgid "Click the file name to change it"
+msgstr "Cliquez sur le nom de fichier pour le modifier"
+
+#: src/php/enhanced-files-addon.class.php:330
+msgid "Max. attachments"
+msgstr "Nombre de pièces jointes"
+
+#: src/php/enhanced-files-addon.class.php:338
+msgid ""
+"The maximum number of files that can be attached to private content. You can "
+"allow some roles to have unlimited attachments by giving them the "
+"\"unlimited attachments\" capability."
+msgstr ""
+"Le nombre maximal de pièces jointes qui peuvent être attachées à du contenu "
+"privé. Vous pouvez autoriser certains rôles à attacher un nombre illimité de "
+"pièces jointes en leur donnant la permission \"pièces jointes illimitées\"."
+
+#: src/php/enhanced-files-addon.class.php:346
+msgid "View inline"
+msgstr "Visualiser directement"
+
+#: src/php/enhanced-files-addon.class.php:353
+msgid "Comma-separated list of file extensions. e.g. <code>pdf,txt</code>"
+msgstr ""
+"Liste d'extensions de fichiers séparées par une virgule. Ex : <code>pdf,txt</"
+"code>"
+
+#: src/php/enhanced-files-addon.class.php:355
+msgid ""
+"You can specify here the file extensions for which the browser will try to "
+"show them inline rather than downloading them. Kindly note that this is a "
+"hint to the browser and depending on the browser version, user settings, "
+"etc. the file may still be downloaded instead of viewed inline."
+msgstr ""
+"Vous pouvez spécifier ici pour quels types de fichiers recommander au "
+"navigateur une visualisation plutôt qu'un téléchargement. Notez que ceci est "
+"une recommandation au navigateur et que selon sa version, les réglages "
+"utilisateur, etc. le fichier pourrait quand même être téléchargé au lieu "
+"d'être visualisé."
+
+#: src/php/enhanced-files-addon.class.php:362
+msgid "Do not show any icons"
+msgstr "Ne pas afficher d'icônes"
+
+#: src/php/enhanced-files-addon.class.php:369
+msgid "File icons"
+msgstr "Icônes de fichiers"
+
+#: src/php/enhanced-files-addon.class.php:402
+msgid "File icons are currently switched off."
+msgstr "Les fichiers d'icônes sont actuellement désactivés."
+
+#: src/php/enhanced-files-addon.class.php:407
+msgid ""
+"You are currently using the icon pack %1$s designed by <a href=\"%2$s\">"
+"%3$s</a> available under the <a href=\"%4$s\">following license</a>."
+msgstr ""
+"Vous utilisez actuellement le pack d'icônes %1$s créé par <a href=\"%2$s\">"
+"%3$s</a> et disponible suivant la <a href=\"%4$s\">licence suivante</a>."
+
+#: src/php/enhanced-files-addon.class.php:414
+msgid "Here are a few sample icons from this pack: "
+msgstr "Voici quelques icônes de ce pack&nbsp;: "
+
+#: src/php/enhanced-files-addon.class.php:461
+msgid "Unlimited file attachments"
+msgstr "Pièces jointes illimitées"
+
+#. Description of the plugin/theme
+msgid ""
+"Supercharge private files: custom captions, attach multiple files to a "
+"single post, etc."
+msgstr ""
+"Améliorez vos fichiers privés : titres personnalisés, attacher de multiples "
+"fichiers, etc."

@@ -1,0 +1,30 @@
+// GENERAL
+// -------
+
+@navbar-default-bg: @cuar-color-primary;
+@navbar-default-link-color: white;
+
+// STYLES
+// ------
+
+@{wrapperBase} {
+  &,
+  &.cuar-content-container {
+    border-color: #424242;
+  }
+  .cuar-toolbar {
+    background: #424242;
+  }
+  .tray-right,
+  .tray-left {
+    background: #5a5a5a;
+  }
+  .cuar-menu-container {
+    .navbar .navbar-nav {
+      > li.current-page-parent > a,
+      > li.current-menu-item > a {
+        background: lighten(@component-active-bg, 5%);
+      }
+    }
+  }
+}

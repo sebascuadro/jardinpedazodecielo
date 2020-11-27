@@ -1,0 +1,724 @@
+# Translation of Plugins - Disable Admin Notices individually - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Disable Admin Notices individually - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-22 11:28:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Disable Admin Notices individually - Development (trunk)\n"
+
+#: includes/classes/class-configurate-notices.php:293
+msgid "Hide  <b>for all</b>"
+msgstr "Oculto <b>para todos</b>"
+
+#: includes/classes/class-configurate-notices.php:289
+msgid "Hide  <b>for me</b>"
+msgstr "Oculto <b>para mi</b>"
+
+#: includes/classes/class-configurate-notices.php:92
+msgid "Hidden for you"
+msgstr "Oculto para ti"
+
+#: admin/class-page-basic.php:41
+msgid "Webcraftic Disable Admin Notices"
+msgstr "Disable Admin Notices de Webcraftic"
+
+#: admin/pages/class-pages-notices.php:52
+msgid "Manage hidden notices"
+msgstr "Gestionar los avisos ocultos"
+
+#. Plugin Name of the plugin
+msgid "Disable Admin Notices Individually"
+msgstr "Disable Admin Notices Individually"
+
+#: admin/boot.php:109
+msgid "Thanks for using the Disable admin notices plugin! If you need support or all the features of the plugin, please buy the pro version <a class=\"button\" href=\"%s\">Get PRO</a>"
+msgstr "¡Gracias por usar el plugin Disable admin notices! Si necesitas soporte o todas las características del plugin, por favor, compra la versión pro. <a class=\"button\" href=\"%s\">Obtén PRO</a>"
+
+#: admin/pages/class-pages-settings.php:73
+msgid "General settings"
+msgstr "Ajustes generales"
+
+#: admin/pages/class-pages-edit-redirects.php:54
+msgid "Break advertising redirects"
+msgstr "Interrumpir las redirecciones de la publicidad"
+
+#: admin/pages/class-pages-edit-redirects.php:53
+msgid "Block ad redirects"
+msgstr "Bloquear las redirecciones de anuncios"
+
+#: admin/pages/class-pages-license.php:47
+msgid "Disable admin notices premium"
+msgstr "Desactivar los avisos premium en la administración"
+
+#: admin/pages/class-pages-license.php:46
+msgid "Product activation"
+msgstr "Activación del producto"
+
+#: admin/pages/class-pages-license.php:45
+msgid "License"
+msgstr "Licencia"
+
+#: admin/pages/class-pages-edit-admin-bar.php:54
+msgid "You can hide an annoying adminbar menu"
+msgstr "Puedes ocultar un molesto menú en la barra de administración"
+
+#: admin/pages/class-pages-edit-admin-bar.php:53
+msgid "Hide adminbar items"
+msgstr "Ocultar los elementos de la barra de administración"
+
+#: admin/options.php:103 admin/options.php:105
+msgid "Disable core updates nags"
+msgstr "Desactivar los avisos de actualizaciones del núcleo"
+
+#: admin/options.php:92 admin/options.php:94
+msgid "Disable plugins updates nags"
+msgstr "Desactivar los avisos de actualizaciones de plugins"
+
+#: admin/options.php:58
+msgid "Collapse all notifications in one line (panel with notification counters), to see the notifications, you will need to click this panel."
+msgstr "Cierra todos los avisos en una línea (panel con contadores de avisos). Para ver los avisos tienes que hacer clic en este panel."
+
+#: admin/options.php:57
+msgid "Compact panel"
+msgstr "Panel compacto"
+
+#: admin/options.php:45 admin/options.php:50 admin/options.php:58
+msgid "Watch the <a href=\"%s\" target=\"_blank\">video</a> to find out how it works ."
+msgstr "Mira el <a href=\"%s\" target=\"_blank\">vídeo</a> para saber cómo funciona."
+
+#: libs/factory/clearfy/pages/class-page-license.php:335
+msgid "Сommercial license, only to the premium add-on to this free plugin. You cannot distribute or modify the premium add-on. But free plugin is a GPLv3 compatible license allowing you to change and use this version of the plugin for free."
+msgstr "Licencia comercial, solo para la extensión premium de este plugin gratuito. No puedes distribuir ni modificar la extensión premium. Pero el plugin gratuito tiene una licencia compatible con GPLv3 que te permite cambiar y usar esta versión del plugin de forma gratuita."
+
+#: libs/factory/clearfy/pages/class-page-license.php:301
+msgid "Upgrade to Premium"
+msgstr "Actualizar a premium"
+
+#: libs/factory/clearfy/pages/class-pages.php:477
+msgid "Can't find the settings you need? Use the search by the plugin options:"
+msgstr "¿No puedes encontrar los ajustes que necesitas? Usa el buscador de opciones del plugin:"
+
+#: admin/options.php:257
+msgid "Reset notices"
+msgstr "Restablecer avisos"
+
+#: admin/options.php:253
+msgid "all users"
+msgstr "todos los usuarios"
+
+#: admin/options.php:249
+msgid "current user"
+msgstr "usuario actual"
+
+#: libs/factory/pages/templates/impressive-page.class.php:677
+msgid "Save"
+msgstr "Guardar"
+
+#: libs/factory/pages/pages.php:73
+msgid "You are trying to call this earlier than the plugin menu will be registered."
+msgstr "Estás tratando de hacer una llamada a esto antes de que se registre el menú del plugin."
+
+#: libs/factory/clearfy/pages/class-page-more-features.php:77
+msgid "More features"
+msgstr "Más características"
+
+#: libs/factory/clearfy/pages/class-page-license.php:270
+msgid "Can’t find your key? Go to <a href=\"%s\" target=\"_blank\" rel=\"noopener\">this page</a> and login using the e-mail address associated with your purchase."
+msgstr "¿No encuentras tu clave? Ve a <a href=\"%s\" target=\"_blank\" rel=\"noopener\">esta página</a> y accede usando la dirección de correo electrónico asociada con tu compra."
+
+#: libs/factory/clearfy/pages/class-page-license.php:266
+msgid "<a href=\"%s\" target=\"_blank\" rel=\"noopener\">Lean more</a> about the premium version and get the license key to activate it now!"
+msgstr "<a href=\"%s\" target=\"_blank\" rel=\"noopener\">Aprende más</a> sobre la versión premium y ¡consigue una clave de licencia para activarla ahora!"
+
+#: libs/factory/clearfy/pages/class-page-license.php:406
+msgid "Submit Key"
+msgstr "Enviar clave"
+
+#: libs/factory/clearfy/pages/class-page-license.php:401
+msgid "Have a key to activate the plugin? Paste it here:"
+msgstr "¿Tienes una clave para activar el plugin? Pégala aquí:"
+
+#: libs/factory/clearfy/pages/class-page-license.php:399
+msgid "Have a key to activate the premium version? Paste it here:"
+msgstr "¿Tienes una clave para activar la versión premium? Pégala aquí:"
+
+#: libs/factory/clearfy/pages/class-page-license.php:388
+msgid "remained"
+msgstr "restantes"
+
+#: libs/factory/clearfy/pages/class-page-license.php:386
+msgid "day(s)"
+msgstr "día(s)"
+
+#: libs/factory/clearfy/pages/class-page-license.php:376
+msgid "please update the key"
+msgstr "por favor, actualiza la clave"
+
+#: libs/factory/clearfy/pages/class-page-license.php:375
+msgid "EXPIRED!"
+msgstr "¡CADUCADA!"
+
+#: libs/factory/clearfy/pages/class-page-license.php:365
+msgid "active sites"
+msgstr "sitios activos"
+
+#: libs/factory/clearfy/pages/class-page-license.php:363
+msgid "of"
+msgstr "de"
+
+#: libs/factory/clearfy/pages/class-page-license.php:357
+msgid "plan"
+msgstr "plan"
+
+#: libs/factory/clearfy/pages/class-page-license.php:353
+msgid "domain"
+msgstr "dominio"
+
+#: libs/factory/clearfy/pages/class-page-license.php:345
+msgid "Your license has expired, please extend the license to get updates and support."
+msgstr "Tu licencia ha caducado, por favor, amplía la licencia para obtener actualizaciones y soporte."
+
+#: libs/factory/clearfy/pages/class-page-license.php:339
+msgid "You use a paid subscription for the plugin updates. In case you don’t want to receive paid updates, please, click <a data-action=\"unsubscribe\" class=\"wcl-control-btn\" href=\"#\">cancel subscription</a>"
+msgstr "Usas una suscripción de pago para las actualizaciones del plugin. En caso de que no quieras recibir actualizaciones de pago, por favor, haz clic en <a data-action=\"unsubscribe\" class=\"wcl-control-btn\" href=\"#\">cancelar la suscripción</a>"
+
+#: libs/factory/clearfy/pages/class-page-license.php:333
+msgid "Public License is a GPLv3 compatible license allowing you to change and use this version of the plugin for free. Please keep in mind this license covers only free edition of the plugin. Premium versions are distributed with other type of a license."
+msgstr "La licencia pública es una licencia compatible con GPLv3 que te permite cambiar y usar esta versión del plugin de forma gratuita. Por favor, ten en cuenta que esta licencia solo cubre la edición gratuita del plugin. Las versiones Premium se distribuyen con otro tipo de licencia."
+
+#: libs/factory/clearfy/pages/class-page-license.php:322
+msgid "Automatic renewal, every %s"
+msgstr "Renovación automática, cada %s"
+
+#: libs/factory/clearfy/pages/class-page-license.php:314
+msgid "Synchronization"
+msgstr "Sincronización"
+
+#: libs/factory/clearfy/pages/class-page-license.php:310
+msgid "Delete Key"
+msgstr "Borrar la clave"
+
+#: libs/factory/clearfy/pages/class-page-license.php:304
+msgid "Your current license for %1$s:"
+msgstr "Tu licencia actual para %1$s:"
+
+#: libs/factory/clearfy/pages/class-page-license.php:284
+msgid "Activate %s"
+msgstr "Activar %s"
+
+#: libs/factory/clearfy/pages/class-pages.php:440
+msgid "If you find a php error or a vulnerability in plugin, you can <a href=\"%s\" target=\"_blank\" rel=\"noopener\">create ticket</a> in hot support that we responded instantly."
+msgstr "Si encuentras un error de PHP o una vulnerabilidad en el plugin, puedes <a href=\"%s\" target=\"_blank\" rel=\"noopener\">crear un tique</a> en el soporte que responderemos de forma instantánea."
+
+#: libs/factory/clearfy/pages/class-pages.php:436
+msgid "Get starting free support"
+msgstr "Soporte gratuito para los primeros pasos"
+
+#: libs/factory/clearfy/pages/class-pages.php:431
+msgid "We provide free support for this plugin. If you are pushed with a problem, just create a new ticket. We will definitely help you!"
+msgstr "Proporcionamos soporte gratuito para este plugin. Si tienes un problema, simplemente crea un nuevo tique. ¡Definitivamente te ayudaremos!"
+
+#: libs/factory/clearfy/pages/class-pages.php:428
+msgid "Having Issues?"
+msgstr "¿Tienes problemas?"
+
+#: libs/factory/clearfy/pages/class-pages.php:303
+msgid "Upgrade for $%s"
+msgstr "Actualizar a %s"
+
+#: libs/factory/clearfy/pages/class-pages.php:270
+msgid "MORE IN CLEARFY <span>BUSINESS</span>"
+msgstr "MÁS EN CLEARFY <span>BUSINESS</span>"
+
+#: libs/factory/clearfy/pages/class-pages.php:264
+msgid "Perfect support."
+msgstr "Soporte perfecto."
+
+#: libs/factory/clearfy/pages/class-pages.php:263
+msgid "No ads;"
+msgstr "Sin anuncios;"
+
+#: libs/factory/clearfy/pages/class-pages.php:262
+msgid "Advanced settings;"
+msgstr "Ajustes avanzados;"
+
+#: libs/factory/clearfy/pages/class-pages.php:261
+msgid "Multisite support;"
+msgstr "Compatibilidad con multisitio;"
+
+#: libs/factory/clearfy/pages/class-pages.php:260
+msgid "40 new premium components within a year for the single price;"
+msgstr "40 nuevos componentes premium al año por un precio único;"
+
+#: libs/factory/clearfy/pages/class-pages.php:259
+msgid "4 premium components now;"
+msgstr "4 componentes premium ahora;"
+
+#: libs/factory/clearfy/includes/ajax-handlers.php:64
+msgid "Subscription success cancelled"
+msgstr "Suscripción cancelada correctamente"
+
+#: libs/factory/clearfy/includes/ajax-handlers.php:60
+msgid "The license has been updated"
+msgstr "La licencia se ha actualizado"
+
+#: libs/factory/clearfy/includes/ajax-handlers.php:56
+msgid "The license is deactivated"
+msgstr "La licencia está desactivada"
+
+#: libs/factory/clearfy/includes/ajax-handlers.php:51
+msgid "Your license has been successfully activated"
+msgstr "Tu licencia se ha activado correctamente"
+
+#: libs/factory/clearfy/includes/ajax-handlers.php:48
+msgid "License key is empty or license key too long (license key is 32 characters long)"
+msgstr "La clave de licencia está vacía o es demasiado larga (la clave de licencia tiene 32 caracteres de longitud)."
+
+#: libs/factory/clearfy/includes/ajax-handlers.php:37
+msgid "Licensing action not passed or this action is prohibited!"
+msgstr "¡La acción de licencia no ha sido aprobada o esta acción está prohibida!"
+
+#: libs/factory/core/includes/updates/class-factory-premium-upgrader.php:798
+msgid ""
+"Congratulations, you have activated a premium license! Please activate premium add-on to use pro features now.\n"
+"        <a href=\"%s\">Activate</a> premium add-on or <a href=\"%s\">cancel</a> license."
+msgstr ""
+"¡Felicidades, has activado una licencia premium! Por favor, activa ahora la extensión premium pra usar las características pro.\n"
+"        <a href=\"%s\">Activar</a> la extensión premium o <a href=\"%s\">cancelar</a> la licencia."
+
+#: libs/factory/core/includes/updates/class-factory-premium-upgrader.php:796
+msgid ""
+"Congratulations, you have activated a premium license! Please install premium add-on to use pro features now.\n"
+"        <a href=\"%s\">Install</a> premium add-on or <a href=\"%s\">cancel</a> license."
+msgstr ""
+"¡Felicidades, has activado una licencia premium! Por favor, instala ahora la extensión premium para usar las características pro.\n"
+"        <a href=\"%s\">Instalar</a> la extensión premium o <a href=\"%s\">cancelar</a> la licencia."
+
+#: libs/factory/core/includes/updates/class-factory-premium-upgrader.php:795
+msgid "Your license has expired. You can no longer get premium plugin updates, premium support and your access to Webcraftic services has been suspended."
+msgstr "Tu licencia ha caducado. Ya no puedes obtener las actualizaciones premium del plugin ni soporte premium y tu acceso a los servicios de Webcraftic ha sido suspendido."
+
+#: libs/factory/core/includes/updates/class-factory-premium-upgrader.php:794
+msgid "License activation required. A license is required to get premium plugin updates, as well as to get additional services."
+msgstr "Se necesita la activación de la licencia. Es necesaria una licencia para obtener las actualizaciones premium del plugin, así como para obtener servicios adicionales."
+
+#: libs/factory/core/includes/class-factory-requirements.php:290
+msgid "Plugin %s is already activated, you are trying to activate it again."
+msgstr "El plugin %s ya está activado, lo estás intentando activar otra vez."
+
+#: libs/factory/core/includes/class-factory-requirements.php:283
+#: libs/factory/core/includes/class-check-compatibility.php:90
+msgid "You need to update WordPress to %s or higher!"
+msgstr "¡Tienes que actualizar WordPress a la versión %s o superior!"
+
+#: libs/factory/core/includes/class-factory-requirements.php:276
+#: libs/factory/core/includes/class-check-compatibility.php:85
+msgid "You need to update the PHP version to %s or higher!"
+msgstr "¡Tienes que actualizar PHP a la versión %s o superior!"
+
+#: libs/factory/core/includes/class-factory-requirements.php:246
+#: libs/factory/core/includes/class-check-compatibility.php:79
+msgid "Possible reasons:"
+msgstr "Posibles razones:"
+
+#: libs/factory/core/includes/class-factory-requirements.php:245
+#: libs/factory/core/includes/class-check-compatibility.php:78
+msgid "The %s plugin has stopped."
+msgstr "El plugin %s se ha detenido."
+
+#: libs/factory/core/includes/class-factory-requirements.php:243
+#: libs/factory/core/includes/class-check-compatibility.php:76
+msgid "warning"
+msgstr "advertencia"
+
+#: libs/factory/core/includes/class-factory-plugin-abstract.php:519
+msgid "You cannot use this feature on the frontend."
+msgstr "No puedes usar esta característica en la portada."
+
+#: libs/factory/core/includes/class-factory-migrations.php:508
+msgid "There is no PHP Tokenizer extension installed on your server, you cannot use the token_get_all function."
+msgstr "No hay ninguna extensión PHP Tokenizer instalada en tu servidor y no puedes usar la función `token_get_all`."
+
+#: libs/factory/core/includes/class-factory-migrations.php:177
+msgid "migrations DEBUG bar"
+msgstr "barra de DEPURACIÓN de migraciones"
+
+#: libs/factory/core/includes/class-factory-migrations.php:170
+msgid "Migrate now"
+msgstr "Migrar ahora"
+
+#: libs/factory/core/includes/class-factory-migrations.php:169
+msgid "Need migration:"
+msgstr "Migración necesaria:"
+
+#: libs/factory/core/includes/class-factory-migrations.php:168
+msgid "Current plugin version:"
+msgstr "Versión actual del plugin:"
+
+#: libs/factory/core/includes/class-factory-migrations.php:167
+msgid "Old plugin version (debug):"
+msgstr "Versión anterior del plugin (depuración):"
+
+#: libs/factory/core/includes/class-factory-migrations.php:165
+msgid "Plugin activated:"
+msgstr "Plugin activado:"
+
+#: libs/factory/core/includes/class-factory-migrations.php:139
+msgid "migration error"
+msgstr "error de migración"
+
+#: libs/factory/core/includes/class-factory-migrations.php:132
+msgid "I fixed, confirm migration"
+msgstr "Lo he corregido, confirmo la migración"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://webcraftic.com"
+msgstr "https://webcraftic.com"
+
+#: includes/classes/class-configurate-notices.php:105
+msgid "Restore notice"
+msgstr "Restaurar aviso"
+
+#: libs/factory/forms/controls/multiple-textbox.php:89
+msgid "Add new"
+msgstr "Añadir nuevo"
+
+#: admin/options.php:235
+msgid "Reset hidden notices for"
+msgstr "Restablecer avisos ocultos de"
+
+#: admin/options.php:238
+msgid "Push reset hidden notices if you need to show hidden notices again."
+msgstr "Pulsa en restablecer avisos ocultos si necesitas mostrar de nuevo los avisos ocultos."
+
+#: admin/options.php:50
+msgid "Hide selected notices only. You will see the link \"Hide notification forever\" in each notice. Push it and they will not bother you anymore."
+msgstr "Oculta solo los avisos seleccionados. Verás el enlace «Ocultar aviso siempre» en cada aviso. Púlsalo y no te molestará más."
+
+#: admin/options.php:33
+msgid "Do you know the situation, when some plugin offers you to update to premium, to collect technical data and shows many annoying notices? You are close these notices every now and again but they newly appears and interfere your work with WordPress. Even worse, some plugin’s authors delete “close” button from notices and they shows in your admin panel forever."
+msgstr "¿Conoces esa situación en la que algún plugin te ofrece actualizar a la versión premium, recopilar datos y mostrarte montones de molestos avisos? Cierras esos avisos de vez en cuando pero aparecen de nuevo e interfieren con tu trabajo con WordPress. Incluso peor, algunos autores de plugins borran el botón «cerrar» de los avisos y se muestran en tu panel de administración siempre."
+
+#: admin/options.php:33
+msgid "Admin notifications, Update nags"
+msgstr "Avisos de administración, peticiones de actualización"
+
+#: admin/pages/class-pages-notices.php:51
+msgid "Hidden notices"
+msgstr "Avisos ocultos"
+
+#. Author of the plugin
+msgid "Webcraftic <wordpress.webraftic@gmail.com>"
+msgstr "Webcraftic <wordpress.webraftic@gmail.com>"
+
+#. Description of the plugin
+msgid "Disable admin notices plugin gives you the option to hide updates warnings and inline notices in the admin panel."
+msgstr "El plugin Disable admin notices te da la opción de ocultar advertencias de actualizaciones y avisos integrados en el panel de administración."
+
+#: libs/factory/clearfy/pages/class-pages.php:395
+msgid "Donation for plugin development"
+msgstr "Donación para el desarrollo del plugin"
+
+#: libs/factory/clearfy/pages/class-pages.php:377
+msgid "Go rate us and push ideas"
+msgstr "Ve a valorarnos y a proponer ideas"
+
+#: libs/factory/clearfy/pages/class-pages.php:373
+msgid "And also write your ideas on how to extend or improve the plugin."
+msgstr "Y escribe también tus ideas sobre cómo ampliar o mejorar el plugin."
+
+#: libs/factory/clearfy/pages/class-pages.php:372
+msgid "Help the author, leave a review on wordpress.org. Thanks to feedback, I will know that the plugin is really useful to you and is needed."
+msgstr "Ayuda al autor, deja una reseña en wordpress.org. Gracias a los comentarios, sabré que el plugin te es útil realmente y que es necesario."
+
+#: libs/factory/clearfy/pages/class-pages.php:370
+msgid "Do you want the plugin to improved and update?"
+msgstr "¿Quieres que el plugin sea mejorado y actualizado?"
+
+#: libs/factory/clearfy/pages/class-pages.php:343
+msgid "Hover to the icon to get help for the feature you selected."
+msgstr "Pasa el cursor por encima del icono para obtener ayuda sobre la característica que has seleccionado."
+
+#: libs/factory/clearfy/pages/class-pages.php:339
+msgid "Absolutely safe setting, We recommend to use."
+msgstr "Ajuste absolutamente seguro. Recomendamos usarlo."
+
+#: libs/factory/clearfy/pages/class-pages.php:332
+msgid "When set this option, you must be careful. Plugins and themes may depend on this function. You must be sure that you can disable this feature for the site."
+msgstr "Al configurar esta opción, debes tener cuidado. Los plugins y temas pueden depender de esta función. Debes estar seguro de que puedes desactivar esta característica en el sitio."
+
+#: libs/factory/clearfy/pages/class-pages.php:325
+msgid "A neutral setting that can not harm your site, but you must be sure that you need to use it."
+msgstr "Un ajuste neutro que no puede dañar tu sitio, pero debes estar seguro de que necesitas usarlo."
+
+#: libs/factory/pages/templates/impressive-page.class.php:799
+msgid "You do not have permission to edit page."
+msgstr "No tienes permisos para editar la página."
+
+#: libs/factory/pages/templates/impressive-page.class.php:668
+msgid "Page"
+msgstr "Página"
+
+#: libs/factory/pages/templates/impressive-page.class.php:395
+msgid "It seems that a caching/performance plugin is active on this site. Please manually invalidate that plugin's cache after making any changes to the settings below."
+msgstr "Parece que en este sitio hay activo un plugin de caché/rendimiento. Por favor, invalida manualmente la caché de ese plugin después de hacer cualquier cambio en los siguientes ajustes."
+
+#: libs/factory/pages/templates/impressive-page.class.php:395
+msgid "The settings have been updated successfully!"
+msgstr "¡Los ajustes se han actualizado correctamente!"
+
+#: libs/factory/pages/templates/impressive-page.class.php:130
+#: admin/pages/class-pages-settings.php:85
+msgid "Settings"
+msgstr "Ajustes"
+
+#: libs/factory/forms/controls/pattern.php:117
+msgid "Changing the color may takes a minute or more. Please be patient."
+msgstr "Cambiar el color puede tardar un minuto o más. Por favor, sé paciente."
+
+#: libs/factory/forms/controls/pattern.php:114
+msgid "Select color:"
+msgstr "Seleccionar el color:"
+
+#: libs/factory/forms/controls/pattern.php:107
+msgid "re-color"
+msgstr "volver a colorear"
+
+#: libs/factory/forms/controls/pattern.php:105
+msgid "Change color"
+msgstr "Cambiar el color"
+
+#: libs/factory/forms/controls/paddings-editor.php:70
+msgid "Select a side and move the slider to set up:"
+msgstr "Selecciona un lado y mueve el control deslizante para configurarlo:"
+
+#: libs/factory/forms/controls/holders/more-link.php:58
+msgid "hide extra options"
+msgstr "ocultar las opciones adicionales"
+
+#: libs/factory/forms/controls/gradient.php:70
+msgid "horizontal"
+msgstr "horizontal"
+
+#: libs/factory/forms/controls/gradient.php:69
+msgid "vertical"
+msgstr "vertical"
+
+#: libs/factory/forms/controls/google-font.php:136
+msgid "Unexpected error. The list of Google Fonts are empty."
+msgstr "Error inesperado. La lista de fuentes de Google está vacía."
+
+#: libs/factory/forms/controls/google-font.php:126
+msgid "Invalide response from the Google Fonts API."
+msgstr "Respuesta no válida desde la API de Google Fonts."
+
+#: libs/factory/forms/controls/google-font.php:118
+msgid "Unable to retrieve the list of Google Fonts."
+msgstr "No se ha podido recuperar la lista de fuentes de Google."
+
+#: libs/factory/forms/controls/google-font.php:68
+msgid "Google Fonts:"
+msgstr "Google Fonts:"
+
+#: libs/factory/forms/controls/google-font.php:57
+msgid "Standard:"
+msgstr "Estándar:"
+
+#: libs/factory/forms/controls/font.php:190
+msgid "Monospaced:"
+msgstr "Monospaced:"
+
+#: libs/factory/forms/controls/font.php:134
+msgid "Serif:"
+msgstr "Serif:"
+
+#: libs/factory/forms/controls/font.php:83
+msgid "Sans Serif:"
+msgstr "Sans Serif:"
+
+#: libs/factory/forms/controls/font.php:80
+#: libs/factory/forms/controls/google-font.php:52
+msgid "(use default website font)"
+msgstr "(usar la fuente por defecto de la web)"
+
+#: libs/factory/forms/controls/dropdown.php:271
+#: libs/factory/forms/controls/dropdown.php:352
+msgid "- empty -"
+msgstr "- vacío -"
+
+#: libs/factory/forms/controls/dropdown.php:126
+#: libs/factory/forms/controls/list.php:96
+#: libs/factory/forms/controls/list.php:139
+msgid "The list is empty."
+msgstr "La lista está vacía."
+
+#: libs/factory/forms/controls/checkbox.php:136
+msgid "Off"
+msgstr "Apagado"
+
+#: libs/factory/forms/controls/checkbox.php:133
+msgid "On"
+msgstr "Activado"
+
+#: libs/factory/core/includes/functions.php:152
+msgid "%1$s is <strong>deprecated</strong> since version %2$s with no alternative available."
+msgstr "%1$s ha quedado <strong>obsoleto</strong> desde la versión %2$s y no hay alternativas disponibles."
+
+#: libs/factory/core/includes/functions.php:150
+msgid "%1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
+msgstr "%1$s ha quedado <strong>obsoleto</strong> desde la versión %2$s. Utiliza %3$s en su lugar."
+
+#: libs/factory/clearfy/pages/class-page-more-features.php:164
+msgid "Get the ultimate plugin 100% FREE"
+msgstr "Obtén el plugin definitivo 100 % GRATIS"
+
+#: libs/factory/clearfy/pages/class-page-more-features.php:150
+msgid "In quick mode, you can easily configure the plugin according to your needs."
+msgstr "En el modo rápido, puedes configurar el plugin fácilmente de acuerdo a tus necesidades."
+
+#: libs/factory/clearfy/pages/class-page-more-features.php:149
+msgid "Easy setup"
+msgstr "Configuración sencilla"
+
+#: libs/factory/clearfy/pages/class-page-more-features.php:142
+msgid ""
+"Allows you to hide the version of the site and plugins. Allows you to hide your\n"
+"\t\t\t\t\t\t\tWordPress."
+msgstr ""
+"Te permite ocultar la versión del sitio y de los plugins. Te permite ocultar tu\n"
+"\t\t\t\t\t\t\tWordPress."
+
+#: libs/factory/clearfy/pages/class-page-more-features.php:141
+msgid "Site privacy"
+msgstr "Privacidad del sitio"
+
+#: libs/factory/clearfy/pages/class-page-more-features.php:135
+msgid "Increases performance by disabling unused functions and reducing the number of requests."
+msgstr "Aumenta el rendimiento al desactivar las funciones no utilizadas y al reducir el número de solicitudes."
+
+#: libs/factory/clearfy/pages/class-page-more-features.php:134
+msgid "Speed Optimization"
+msgstr "Optimización de la velocidad"
+
+#: libs/factory/clearfy/pages/class-page-more-features.php:128
+msgid "Allows you to remove unused widgets."
+msgstr "Te permite eliminar los widgets no usados."
+
+#: libs/factory/clearfy/pages/class-page-more-features.php:127
+msgid "Manage widgets"
+msgstr "Gestionar widgets"
+
+#: libs/factory/clearfy/pages/class-page-more-features.php:120
+msgid ""
+"Enables or disables automatically updates for plugins, themes and core. It is also possible\n"
+"\t\t\t\t\t\t\tto disable all updates."
+msgstr ""
+"Activa o desactiva automáticamente las actualizaciones de los plugins, los temas y del núcleo. También es posible\n"
+"\t\t\t\t\t\t\tdesactivar todas las actualizaciones."
+
+#: libs/factory/clearfy/pages/class-page-more-features.php:119
+msgid "Manage updates"
+msgstr "Gestionar las actualizaciones"
+
+#: libs/factory/clearfy/pages/class-page-more-features.php:113
+msgid "Disables comments on the entire site or on specific pages."
+msgstr "Desactiva los comentarios en todo el sitio o en páginas específicas."
+
+#: libs/factory/clearfy/pages/class-page-more-features.php:112
+msgid "Disable comments"
+msgstr "Desactivar comentarios"
+
+#: libs/factory/clearfy/pages/class-page-more-features.php:106
+msgid "Enables and disables features that improve the protection of your site."
+msgstr "Activa y desactiva características que mejoran la protección de tu sitio."
+
+#: libs/factory/clearfy/pages/class-page-more-features.php:105
+msgid "Site protection"
+msgstr "Protección del sitio"
+
+#: libs/factory/clearfy/pages/class-page-more-features.php:99
+msgid "Removes duplicate pages, closes external links, changes the headers of the server."
+msgstr "Elimina las páginas duplicadas, cierra los enlaces externos, cambia las cabeceras del servidor."
+
+#: libs/factory/clearfy/pages/class-page-more-features.php:98
+msgid "Improve SEO"
+msgstr "Mejorar el SEO"
+
+#: libs/factory/clearfy/pages/class-page-more-features.php:92
+msgid "Clears the source code of the page from unused code."
+msgstr "Limpia el código fuente de la página de código no utilizado."
+
+#: libs/factory/clearfy/pages/class-page-more-features.php:91
+msgid "Code cleaning"
+msgstr "Limpieza del código"
+
+#: libs/factory/clearfy/pages/class-page-more-features.php:64
+msgid "More features (<b>free</b>)"
+msgstr "Más características (<b>gratis</b>)"
+
+#: includes/classes/class-configurate-notices.php:81
+msgid "Notifications %s"
+msgstr "Avisos de %s"
+
+#: disable-admin-notices.php:46
+msgid "Webcraftic disable admin notices"
+msgstr "Webcraftic disable admin notices"
+
+#: admin/options.php:150
+msgid "By default, the plugin hides all notices, which you specified. If you enable this option, the plugin will collect all hidden notices and show them into the top admin toolbar. It will not disturb you but will allow to look notices at your convenience."
+msgstr "Por defecto, el plugin oculta todos los avisos, que hayas especificado. Si activas esta opción el plugin recopilará todos los avisos ocultos y los mostrará en la barra de herramientas superior de administración. No molestarán pero permitirá ver avisos a tu gusto."
+
+#: admin/boot.php:88 admin/options.php:148
+msgid "Enable hidden notices in adminbar"
+msgstr "Activar avisos ocultos en la barra de administración"
+
+#: admin/options.php:69
+msgid "Some plugins shows notifications about premium version, data collecting or promote their services. Even if you push close button (that sometimes are impossible), notices are shows again in some time. This option allows you to control notices. Hide them all or each individually. Some plugins shows notifications about premium version, data collecting or promote their services. Even if you push close button (that sometimes are impossible), notices are shows again in some time. This option allows you to control notices. Hide them all or each individually."
+msgstr "Algunos plugins muestran avisos sobre la versión premium, recopilación de datos o promoción de sus servicios. Incluso aunque pulses el botón de cerrar (a veces imposible), los avisos se muestran de nuevo cada cierto tiempo. Esta opción te permite controlar los avisos. Ocúltalos todos o cada uno individualmente."
+
+#: admin/options.php:40
+msgid "Do not hide notices and do not show “Hide notification forever” link for admin."
+msgstr "No ocultar avisos y no mostrar el enlace a «Ocultar aviso siempre» al administrador."
+
+#: admin/options.php:39
+msgid "Don't hide"
+msgstr "No ocultar"
+
+#: admin/options.php:49
+msgid "Only selected"
+msgstr "Solo los seleccionados"
+
+#: admin/options.php:45
+msgid "Hide all notices globally."
+msgstr "Ocultar todos los avisos globalmente."
+
+#: admin/options.php:44
+msgid "All notices"
+msgstr "Todos los avisos"
+
+#: admin/options.php:261 admin/pages/class-pages-settings.php:116
+msgid "Hidden notices are successfully reset, now you can see them again!"
+msgstr "Los avisos ocultos se han restablecido correctamente, ¡ahora puedes verlos de nuevo!"
+
+#: admin/boot.php:82 admin/options.php:66
+#: admin/pages/class-pages-settings.php:72
+msgid "Hide admin notices"
+msgstr "Ocultar avisos en la administración"
+
+#: admin/boot.php:27
+msgid "Get ultimate plugin free"
+msgstr "Consigue gratis el plugin definitivo"
+
+#: admin/ajax/restore-notice.php:24 admin/ajax/hide-notice.php:27
+msgid "Undefinded notice id."
+msgstr "ID de aviso indefinido"
+
+#: admin/ajax/restore-notice.php:45 admin/ajax/hide-notice.php:59
+msgid "You don't have enough capability to edit this information."
+msgstr "No tienes suficientes capacidades para editar esta información."

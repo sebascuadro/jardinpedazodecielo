@@ -1,0 +1,141 @@
+# (c) Vincent Mimoun-Prat, MarvinLabs {2020}
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Customer Area - Owner Restriction 4.2.0\n"
+"Report-Msgid-Bugs-To: "
+"https://gitlab.com/wp-customerarea/tools/wpca-products-build-environment/-/"
+"issues\n"
+"POT-Creation-Date: 2020-06-19 08:39:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Vincent Mimoun-Prat <vincent@marvinlabs.com>\n"
+"Language-Team: https://vincentprat.info/\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: customer-area-owner-restriction.php\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-1: src/php\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: src/php/owner-restriction-addon.class.php:27
+msgid "Owner Restrictions"
+msgstr ""
+
+#: src/php/owner-restriction-addon.class.php:91
+msgid "Any user"
+msgstr ""
+
+#: src/php/owner-restriction-addon.class.php:92
+msgid "No user at all"
+msgstr ""
+
+#: src/php/owner-restriction-addon.class.php:93
+msgid "Only himself"
+msgstr ""
+
+#: src/php/owner-restriction-addon.class.php:100
+msgid "Any member of the groups where the author is a manager"
+msgstr ""
+
+#: src/php/owner-restriction-addon.class.php:101
+msgid "Any manager of the groups where the author is a member"
+msgstr ""
+
+#: src/php/owner-restriction-addon.class.php:113
+msgid "Any users with the role: %s"
+msgstr ""
+
+#: src/php/owner-restriction-addon.class.php:124
+msgid "Any global rule"
+msgstr ""
+
+#: src/php/owner-restriction-addon.class.php:125
+msgid "No global rule"
+msgstr ""
+
+#: src/php/owner-restriction-addon.class.php:135
+msgid "Any role"
+msgstr ""
+
+#: src/php/owner-restriction-addon.class.php:136
+msgid "No role"
+msgstr ""
+
+#: src/php/owner-restriction-addon.class.php:149
+msgid "Only the %s role"
+msgstr ""
+
+#: src/php/owner-restriction-addon.class.php:160
+msgid "Any user group"
+msgstr ""
+
+#: src/php/owner-restriction-addon.class.php:161
+msgid "No user group"
+msgstr ""
+
+#: src/php/owner-restriction-addon.class.php:162
+#: src/php/owner-restriction-addon.class.php:176
+#: src/php/owner-restriction-addon.class.php:188
+msgid "Groups where the author is a member"
+msgstr ""
+
+#: src/php/owner-restriction-addon.class.php:172
+#: src/php/owner-restriction-addon.class.php:186
+msgid "Any group"
+msgstr ""
+
+#: src/php/owner-restriction-addon.class.php:173
+#: src/php/owner-restriction-addon.class.php:187
+msgid "No group"
+msgstr ""
+
+#: src/php/owner-restriction-addon.class.php:174
+msgid "Groups where the author is a member or a manager"
+msgstr ""
+
+#: src/php/owner-restriction-addon.class.php:175
+msgid "Groups where the author is a manager"
+msgstr ""
+
+#: src/php/owner-restriction-addon.class.php:198
+msgid "Any project"
+msgstr ""
+
+#: src/php/owner-restriction-addon.class.php:199
+msgid "No project"
+msgstr ""
+
+#: src/php/owner-restriction-addon.class.php:200
+msgid "Projects where the author is involved"
+msgstr ""
+
+#: src/php/owner-restriction-addon.class.php:210
+msgid "Projects where the author is &laquo; %1$s &raquo;"
+msgstr ""
+
+#: src/php/owner-restriction-admin-interface.class.php:36
+msgid "Owner Restriction"
+msgstr ""
+
+#: src/php/owner-restriction-admin-interface.class.php:48
+msgid ""
+"The table below sets the owners that can be chosen by an author when "
+"creating or editing this private content type."
+msgstr ""
+
+#: src/php/templates/restrictions-table.template.php:36
+msgid "can create private content for:"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Restrict which owners can be chosen by users when they publish content"
+msgstr ""

@@ -1,0 +1,180 @@
+# (c) Vincent Mimoun-Prat, MarvinLabs {2018}
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Customer Area - Additional Owner Types 5.1.0\n"
+"Report-Msgid-Bugs-To: "
+"http://github.com/marvinlabs/customer-area-build-environment/issues\n"
+"POT-Creation-Date: 2018-04-26 14:24:09+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Vincent Mimoun-Prat <vincent@marvinlabs.com>\n"
+"Language-Team: http://marvinlabs.com/\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: src/php/extended-permissions/extended-permissions-addon.class.php:23
+msgid "Additional owner types"
+msgstr ""
+
+#: src/php/extended-permissions/extended-permissions-addon.class.php:128
+#: src/php/extended-permissions/extended-permissions-addon.class.php:251
+msgid "Any registered user"
+msgstr ""
+
+#: src/php/extended-permissions/extended-permissions-addon.class.php:415
+msgid "Global"
+msgstr ""
+
+#: src/php/extended-permissions/extended-permissions-addon.class.php:416
+msgid "Role"
+msgstr ""
+
+#: src/php/extended-permissions/extended-permissions-addon.class.php:417
+msgid "User Group"
+msgstr ""
+
+#: src/php/user-group/templates/user-groups_profile_edit.template.php:8
+#: src/php/user-group/templates/user-groups_profile_list.template.php:3
+#: src/php/user-group/user-group-addon.class.php:25
+#: src/php/user-group/user-group-addon.class.php:276
+msgid "User Groups"
+msgstr ""
+
+#: src/php/user-group/templates/user-groups_profile_edit.template.php:12
+msgid "Edit user groups"
+msgstr ""
+
+#: src/php/user-group/templates/user-groups_profile_edit.template.php:15
+msgid "You have not yet created any groups."
+msgstr ""
+
+#: src/php/user-group/templates/user-groups_profile_edit.template.php:18
+msgid "Choose groups"
+msgstr ""
+
+#: src/php/user-group/templates/user-groups_profile_list.template.php:8
+msgid "You do not belong to any group"
+msgstr ""
+
+#: src/php/user-group/templates/user-groups_profile_list.template.php:9
+msgid "This user does not belong to any group"
+msgstr ""
+
+#: src/php/user-group/templates/user-groups_team.template.php:21
+msgid "Select users (hint: you can also type to search a user)"
+msgstr ""
+
+#: src/php/user-group/user-group-addon.class.php:68
+msgid "All %s"
+msgstr ""
+
+#: src/php/user-group/user-group-addon.class.php:73
+msgid "New %s"
+msgstr ""
+
+#: src/php/user-group/user-group-addon.class.php:279
+msgid "Back-office"
+msgstr ""
+
+#: src/php/user-group/user-group-addon.class.php:281
+msgid "Create/Edit user groups"
+msgstr ""
+
+#: src/php/user-group/user-group-addon.class.php:282
+msgid "Delete user groups"
+msgstr ""
+
+#: src/php/user-group/user-group-addon.class.php:283
+msgid "Access user groups"
+msgstr ""
+
+#: src/php/user-group/user-group-addon.class.php:284
+msgid "View the groups from a user profile"
+msgstr ""
+
+#: src/php/user-group/user-group-addon.class.php:285
+msgid "Edit the groups from a user profile"
+msgstr ""
+
+#: src/php/user-group/user-group-admin-interface.class.php:159
+#: src/php/user-group/user-group-admin-interface.class.php:191
+msgid "Members"
+msgstr ""
+
+#: src/php/user-group/user-group-admin-interface.class.php:251
+msgid "This group now has %d member(s)"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Make your private content visible to user groups and roles"
+msgstr ""
+
+#: src/php/user-group/user-group-addon.class.php:86
+#: src/php/user-group/user-group-addon.class.php:301
+msgctxt "cuar_user_group"
+msgid "User Group"
+msgstr ""
+
+#: src/php/user-group/user-group-addon.class.php:87
+#: src/php/user-group/user-group-addon.class.php:300
+#: src/php/user-group/user-group-addon.class.php:311
+msgctxt "cuar_user_group"
+msgid "User Groups"
+msgstr ""
+
+#: src/php/user-group/user-group-addon.class.php:302
+msgctxt "cuar_user_group"
+msgid "Add New"
+msgstr ""
+
+#: src/php/user-group/user-group-addon.class.php:303
+msgctxt "cuar_user_group"
+msgid "Add New User Group"
+msgstr ""
+
+#: src/php/user-group/user-group-addon.class.php:304
+msgctxt "cuar_user_group"
+msgid "Edit User Group"
+msgstr ""
+
+#: src/php/user-group/user-group-addon.class.php:305
+msgctxt "cuar_user_group"
+msgid "New User Group"
+msgstr ""
+
+#: src/php/user-group/user-group-addon.class.php:306
+msgctxt "cuar_user_group"
+msgid "View User Group"
+msgstr ""
+
+#: src/php/user-group/user-group-addon.class.php:307
+msgctxt "cuar_user_group"
+msgid "Search User Groups"
+msgstr ""
+
+#: src/php/user-group/user-group-addon.class.php:308
+msgctxt "cuar_user_group"
+msgid "No user groups found"
+msgstr ""
+
+#: src/php/user-group/user-group-addon.class.php:309
+msgctxt "cuar_user_group"
+msgid "No user groups found in Trash"
+msgstr ""
+
+#: src/php/user-group/user-group-addon.class.php:310
+msgctxt "cuar_user_group"
+msgid "Parent User Group:"
+msgstr ""

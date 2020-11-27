@@ -1,0 +1,17 @@
+// GENERAL
+// -------
+
+@panel-heading-bg: @cuar-color-neutral-darker-plus;
+
+// EXTRA STYLES
+// ------------
+@{wrapperBase} {
+  .tray-left,
+  .tray-right {
+    background: @panel-footer-bg;
+  }
+}
+
+// EXTRA EXTENDS
+// -------------
+.cuar-menu-container + .cuar-toolbar:extend(.progress-bar-primary all, .progress-bar-striped all){};

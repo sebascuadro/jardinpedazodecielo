@@ -1,0 +1,34 @@
+// GENERAL
+// -------
+
+@cuar-color-text-darker: #8b7c5d;
+@cuar-color-text-dark: #b6a276;
+@cuar-color-text: #d6d2b2;
+@cuar-color-text-light: #e6e1be;
+@cuar-color-text-lighter: #f6f2d6;
+
+@panel-heading-bg: @cuar-color-neutral-darker-plus;
+
+// EXTRA STYLES
+// ------------
+@{wrapperBase} {
+
+  // Dark paper texture
+  // --
+  &,
+  &.cuar-content-container {
+    .img-retina("../img/bg-tile-paper.png"; "../img/bg-tile-paper_@2X.png"; "auto"; "auto");
+  }
+
+  // Panels
+  // --
+  .panel {
+    background: fade(@panel-bg, 40%);
+  }
+
+  // Default single entry
+  // --
+  .cuar-single-entry {
+    background: fade(@panel-bg, 60%);
+  }
+}
