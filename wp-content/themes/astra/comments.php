@@ -1,4 +1,6 @@
+ 
 <?php
+{--
 /**
  * The template for displaying comments.
  *
@@ -10,7 +12,6 @@
  * @package Astra
  * @since 1.0.0
  */
-
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly.
 }
@@ -96,4 +97,4 @@ if ( post_password_required() ) {
 
 	<?php astra_comments_after(); ?>
 
-</div><!-- #comments -->
+</div><!-- #comments -->--}
